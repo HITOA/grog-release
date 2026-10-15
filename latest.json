@@ -1,9 +1,9 @@
 {
     "format": 1,
     "latest": {
-        "version": "0.0.3",
+        "version": "0.0.4",
         "date": "2026-10-15",
-        "summary": "Test of the update notice."
+        "summary": ""
     },
-    "url": "https://github.com/HITOA/grog-release"
+    "url": ""
 }
